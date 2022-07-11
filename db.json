@@ -1,0 +1,54 @@
+{
+
+    "dataC":[
+        {
+            "uid":1,
+            "marca":"Motorola",
+            "modelo":"moto g82",
+            "lancamento":"2022",
+            "sistema":"Android 12"
+        },
+
+        {
+            "uid":2,
+            "marca":"Apple",
+            "modelo":"Iphone 13 pro",
+            "lancamento":"2022",
+            "sistema":"iOS 15"
+        },
+
+        {
+            "uid":3,
+            "marca":"samsung",
+            "modelo":"Galaxy S22 5G",
+            "lancamento":"2022",
+            "sistema":"Android 12"
+        },
+
+        {
+            "uid":4,
+            "marca":"LG",
+            "modelo":"LG K51S",
+            "lancamento":"2022",
+            "sistema":"Android 11"
+
+        },
+
+        {
+            "uid":5,
+            "marca":"xiaomi",
+            "modelo":"Redmi Note 11S",
+            "lancamento":"2022",
+            "sistema":"Android 11"
+        },
+
+        {
+            "uid":6,
+            "marca":"Pixel",
+            "modelo":"Pixel 6 Pro",
+            "lancamento":"2022",
+            "sistema":"Android 12"
+        }
+    ]
+
+}
